@@ -1,0 +1,16 @@
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\Dominios.dll
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\bin\Debug\netcoreapp3.1\Dominios.pdb
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

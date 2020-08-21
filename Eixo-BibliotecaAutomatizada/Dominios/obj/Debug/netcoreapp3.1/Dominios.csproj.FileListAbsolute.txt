@@ -1,0 +1,9 @@
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\bin\Debug\netcoreapp3.1\Dominios.deps.json
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\bin\Debug\netcoreapp3.1\Dominios.dll
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\bin\Debug\netcoreapp3.1\Dominios.pdb
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\obj\Debug\netcoreapp3.1\Dominios.csprojAssemblyReference.cache
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\obj\Debug\netcoreapp3.1\Dominios.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\obj\Debug\netcoreapp3.1\Dominios.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\obj\Debug\netcoreapp3.1\Dominios.AssemblyInfo.cs
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\obj\Debug\netcoreapp3.1\Dominios.dll
+C:\Users\Raul\source\repos\Eixo-BibliotecaAutomatizada\Eixo-BibliotecaAutomatizada\Dominios\obj\Debug\netcoreapp3.1\Dominios.pdb

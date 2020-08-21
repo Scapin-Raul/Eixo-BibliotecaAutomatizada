@@ -14,6 +14,10 @@ namespace Dominios.Classes
         public int Id { get; set; }
 
         [Required]
+        [Column("RM", TypeName = "int")]
+        public int RM { get; set; }
+
+        [Required]
         [Column("Nome", TypeName = "varchar(255)")]
         public string Nome { get; set; }
 
@@ -21,8 +25,8 @@ namespace Dominios.Classes
         [Column("Senha", TypeName = "varchar(255)")]
         public string Senha{ get; set; }
 
-        
-        //[ForeignKey("Produtos")]
+
+        //[ForeignKey("Livros")]
         //[Column("IdLivroEmprestado", TypeName = "int")]
         //public int IdLivroEmprestado { get; set; }
         //public Livros Livro { get; set; }
